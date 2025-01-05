@@ -22,7 +22,7 @@ Avant de commencer, vous devez vous assurer que votre environnement Python conti
 ### Étape 1 : Clonez le projet
 Si vous n'avez pas encore cloné le projet, utilisez la commande suivante :
 ```bash
-git clone https://votre-lien-repository.git
+git clone https://github.com/LeLwy/MSPR1_DataDownloader.git
 ```
 
 ### Étape 2 : Créez un environnement virtuel
