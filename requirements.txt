@@ -1,0 +1,2 @@
+requests==2.31.0    # Pour gérer les téléchargements de fichiers via HTTP
+schedule==1.1.0     # Pour la planification des tâches
